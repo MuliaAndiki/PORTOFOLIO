@@ -533,7 +533,7 @@ span{
     .background-image-container {
         width: 100%;
         height: 260px;
-        background-image: url(Web-Developer.jpg);
+        background-image: url(image\Web-Developer.jpg);
         background-position: center;
         background-size: cover;
         position: relative;
@@ -545,7 +545,7 @@ span{
     .background-image-container1{
         width: 100%;
         height: 260px;
-        background-image: url(Grafic.jpg);
+        background-image: url(image\Grafic.jpg);
         background-position: center;
         background-size: cover;
         position: relative;
@@ -569,7 +569,7 @@ span{
     .background-image-container5{
         width: 100%;
         height: 260px;
-        background-image: url(mobile-app.jpg);
+        background-image: url(image\mobile-app.jpg);
         background-position:center;
         background-size: cover;
         position: relative;
@@ -581,7 +581,7 @@ span{
     .background-image-container4{
         width: 100%;
         height: 260px;
-        background-image: url(software.jpg);
+        background-image: url(image\software.jpg);
         background-position: center;
         background-size: cover;
         position: relative;
@@ -593,7 +593,7 @@ span{
     .background-image-container2{
         width: 100%;
         height: 260px;
-        background-image: url(videography.jpg);
+        background-image: url(image\videography.jpg);
         background-position: center;
         background-size: cover;
         position: relative;
